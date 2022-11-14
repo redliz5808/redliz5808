@@ -1,6 +1,6 @@
 ### Thank you for visiting my GitHub profile!
 
-I am a Frontend Developer focusing on JavaScript and React, but am looking forward to learning new technologies.
+I am a full-time Umbraco Frontend Developer with experience in HTML, CSS, JavaScript, React, Razor, Sass, Bootstrap, and process documentation.
 
 Here are a few links to help you get to know my code and me better:
 * [View my personal website](https://www.elizabethwfranklin.com)
