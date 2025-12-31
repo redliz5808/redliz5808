@@ -4,6 +4,7 @@ I’m a passionate frontend developer with over 15 years of experience combining
 
 Here are a few links to help you get to know my code and me better:
 * [View my personal website](https://www.elizabethwfranklin.com)
+* [View my Indeed profile](https://profile.indeed.com/p/elizabethf-8ju82tp)
 * [Connect with me on LinkedIn](https://www.linkedin.com/in/elizabethwfranklin/)
 * [View my resume](https://elizabethwfranklin.com/experience)
 * [View my personal, freelance, and professional projects](https://elizabethwfranklin.com/projects)
