@@ -3,11 +3,11 @@
 I’m a passionate frontend developer with over 15 years of experience combining hands-on technical experience with strong administrative and organizational skills. I’ve scaled the infrastructure for a national firm and managed global client websites, but I’ve also worked with small businesses to modernize their systems and create more efficient workflows. Whether welcoming customers into the office or assisting coworkers with tricky software, I treat both with care and respect.
 
 Here are a few links to help you get to know my code and me better:
-* [View my personal website](https://www.elizabethwfranklin.com)
-* [View my Indeed profile](https://profile.indeed.com/p/elizabethf-8ju82tp)
-* [Connect with me on LinkedIn](https://www.linkedin.com/in/elizabethwfranklin/)
-* [View my resume](https://elizabethwfranklin.com/experience)
-* [View my personal, freelance, and professional projects](https://elizabethwfranklin.com/projects)
+* [View my personal website](https://www.elizabethwfranklin.com) 💻
+* [View my Indeed profile](https://profile.indeed.com/p/elizabethf-8ju82tp) 🦄
+* [Connect with me on LinkedIn](https://www.linkedin.com/in/elizabethwfranklin/) 💼
+* [View my resume](https://elizabethwfranklin.com/experience) 🦙
+* [View my personal, freelance, and professional projects](https://elizabethwfranklin.com/projects) ✨
 
 <!--
 **redliz5808/redliz5808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
