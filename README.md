@@ -1,15 +1,12 @@
 ### Thank you for visiting my GitHub profile!
 
-I am a full-time Umbraco Frontend Developer with experience in HTML, CSS, JavaScript, React, Razor, Sass, Bootstrap, and process documentation.
+I’m a passionate frontend developer with over 15 years of experience combining hands-on technical experience with strong administrative and organizational skills. I’ve scaled the infrastructure for a national firm and managed global client websites, but I’ve also worked with small businesses to modernize their systems and create more efficient workflows. Whether welcoming customers into the office or assisting coworkers with tricky software, I treat both with care and respect.
 
 Here are a few links to help you get to know my code and me better:
 * [View my personal website](https://www.elizabethwfranklin.com)
 * [Connect with me on LinkedIn](https://www.linkedin.com/in/elizabethwfranklin/)
-* [View my resume](https://www.elizabethwfranklin.com/generic)
-* [View my weather app built in React using codesandbox](https://b8qgr.csb.app/)
-  * [View the code for the weather app](https://codesandbox.io/s/weather-app-for-dp-refactored-b8qgr)
-* [View my Pomodoro To Do app built using JavaScript using codepen](https://codepen.io/redliz5808/full/WNoRvaX)
-  * [View the code for the Pomodoro To Do app](https://codepen.io/redliz5808/pen/WNoRvaX) 
+* [View my resume](https://elizabethwfranklin.com/experience)
+* [View my personal, freelance, and professional projects](https://elizabethwfranklin.com/projects)
 
 <!--
 **redliz5808/redliz5808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
